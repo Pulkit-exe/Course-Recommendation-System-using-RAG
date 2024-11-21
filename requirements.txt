@@ -1,0 +1,5 @@
+sentence-transformers
+langchain
+langchain-huggingface
+gradio
+chromadb
