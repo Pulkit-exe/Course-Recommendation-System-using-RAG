@@ -3,3 +3,5 @@ langchain
 langchain-huggingface
 gradio
 chromadb
+langchain_chroma
+transformers

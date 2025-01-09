@@ -1,0 +1,3 @@
+Suggest me some courses related to Data Science.
+I need to learn python. Which course is good for me?
+I want to learn SQL. Suggest me some courses.
