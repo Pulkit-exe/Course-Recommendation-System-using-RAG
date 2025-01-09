@@ -23,11 +23,18 @@ This project is a **Retrieval-Augmented Generation (RAG)** based recommendation 
 - `database.py` - Script for managing data embeddings.
 - `gradio_app.py` - Gradio chat interface for course recommendations.
 - `extracted_links.txt` - Contains scraped course URLs.
+- `questions.txt` - Contains scraped course URLs.
+- `answers.txt` - Contains scraped course URLs.
 - `links.py` - Helper for link extraction and processing.
+- `test.py` - Helper for testing the API connection taking `questions.txt` as input and returning `answers.txt` as output.
 
 ## Technologies Used
-- Python, BeautifulSoup, Gradio, Hugging Face, Chroma DB, SentenceTransformers
+- Python, BeautifulSoup, Gradio, Hugging Face, Chroma DB, SentenceTransformers, LangChain
+
+## Citation
+- This project is done using the help of `LangChain` and `HuggingFace` documentation. `ChatGPT` has also helped me to debug this code and convert it to python official standards.
 
 ## License
 This project is licensed under the MIT License.
+
 
